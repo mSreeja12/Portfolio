@@ -413,13 +413,13 @@ nav ul li a:hover{
     background-color: #481E14;
 }
 .CSS{
-    width: 60%;
+    width: 70%;
     animation: CSS 5s infinite;
     z-index: 4;
     background-color: #481E14;
 }
 .JavaScript{
-    width: 48%;
+    width: 70%;
     animation: JavaScript 5s infinite;
     z-index: 4;
     background-color: #481E14;
@@ -431,13 +431,13 @@ nav ul li a:hover{
     background-color: #481E14;
 }
 .AIML{
-    width: 55%;
+    width: 80%;
     animation: Python 5s infinite;
     z-index: 4;
     background-color: #481E14;
 }
 .DS{
-    width: 65%;
+    width: 70%;
     animation: Python 5s infinite;
     z-index: 4;
     background-color: #481E14;
@@ -462,7 +462,7 @@ nav ul li a:hover{
         width: 0%;
     }
     100%{
-        width: 60%;
+        width: 70%;
     }
 }
 @keyframes JavaScript{
@@ -470,7 +470,7 @@ nav ul li a:hover{
         width: 0%;
     }
     100%{
-        width: 48%;
+        width: 70%;
     }
 }
 @keyframes Python{
@@ -486,7 +486,7 @@ nav ul li a:hover{
         width: 0%;
     }
     100%{
-        width: 55%;
+        width: 80%;
     }
 }
 @keyframes DS{
@@ -494,7 +494,7 @@ nav ul li a:hover{
         width: 0%;
     }
     100%{
-        width: 65%;
+        width: 70%;
     }
 }
 @keyframes FE{
